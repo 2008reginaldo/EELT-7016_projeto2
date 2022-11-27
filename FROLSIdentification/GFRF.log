@@ -1,0 +1,191 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.11.25)  25 NOV 2022 18:23
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**GFRF.tex
+(./GFRF.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-05-07>
+
+! LaTeX Error: Environment align undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \begin{align}
+                 
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.2  \scriptstyle
+                  H_1(f_1) =& \scriptstyle\frac{1.0}{10.0 \cdot \left(1.0 - ...
+
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2  \scriptstyle
+                  H_1(f_1) =& \scriptstyle\frac{1.0}{10.0 \cdot \left(1.0 - ...
+
+? 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2.
+! Misplaced alignment tab character &.
+l.2  \scriptstyle H_1(f_1) =&
+                              \scriptstyle\frac{1.0}{10.0 \cdot \left(1.0 - ...
+
+? 
+! Misplaced alignment tab character &.
+l.3  \scriptstyle H_2(f_1,f_2) =&
+                                  \scriptstyle\frac{-1.0}{20.0 \cdot \left(1...
+
+? 
+! Misplaced alignment tab character &.
+l.4  \scriptstyle H_3(f_1,f_2,f_3) =&
+                                      \scriptstyle\frac{1.0}{40.0 \cdot \lef...
+
+? 
+
+! LaTeX Error: \begin{document} ended by \end{align}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \end{align}
+               
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.5 \end{align}
+               
+? 
+)
+*
+
+Overfull \hbox (50.64331pt too wide) in paragraph at lines 2--0
+[]$\OML/cmm/m/it/7 H[]\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 f[]\OT1/cmr/m/n/7 )=
+ []
+
+
+Overfull \hbox (99.38657pt too wide) in paragraph at lines 2--0
+[][] 
+ []
+
+
+Overfull \hbox (40.8205pt too wide) in paragraph at lines 2--0
+\OML/cmm/m/it/7 H[]\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 f[];f[]\OT1/cmr/m/n/7 )=
+ []
+
+
+Overfull \hbox (216.12573pt too wide) in paragraph at lines 2--0
+[][] 
+ []
+
+
+Overfull \hbox (50.99768pt too wide) in paragraph at lines 2--0
+\OML/cmm/m/it/7 H[]\OT1/cmr/m/n/7 (\OML/cmm/m/it/7 f[];f[];f[]\OT1/cmr/m/n/7 )=
+
+ []
+
+
+Overfull \hbox (397.63399pt too wide) in paragraph at lines 2--0
+[]$ 
+ []
+
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*end
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+<*> e
+     nd
+? \end
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, 
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? X
+ 
+Here is how much of TeX's memory you used:
+ 20 strings out of 480806
+ 540 string characters out of 5905150
+ 283494 words of memory out of 6000000
+ 17500 multiletter control sequences out of 15000+600000
+ 403430 words of font info for 27 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 18i,7n,13p,477b,58s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.
+PDF statistics:
+ 0 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
